@@ -9,6 +9,10 @@ const HeroImg = () => {
       <div className="mask">
         <img className="intro-img" src={IntroImg} alt="IntroImg" />
       </div>
+      <div className="content">
+        <p>HI, I'M A FREELANCER</p>
+        <h1>REACT DEVELOPER</h1>
+      </div>
     </div>
   );
 };
