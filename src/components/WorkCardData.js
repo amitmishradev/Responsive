@@ -18,7 +18,7 @@ const ProjectCardData = [
   },
   {
     imgsrc: pro3,
-    title: "Ecommerce Website Design",
+    title: "Rymo Ecommerce Design",
     text: "Thriving Facebook community and top-ranked",
 
     view: "https://www.youtube.com/watch?v=P8YuWEkTeuE&list=PL9bD98LkBR7P8MYh0RzNSHgeVNTA8g0nB&index=1&pp=iAQB",
