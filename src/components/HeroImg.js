@@ -2,6 +2,7 @@ import "./HeroImgStyles.css";
 
 import React from "react";
 import IntroImg from "../assets/intro-bg.jpg";
+import { Link } from "react-router-dom";
 
 const HeroImg = () => {
   return (
@@ -12,6 +13,14 @@ const HeroImg = () => {
       <div className="content">
         <p>HI, I'M A FREELANCER</p>
         <h1>REACT DEVELOPER</h1>
+        <div>
+          <Link to="/project" className="btn">
+            PROJECTS
+          </Link>
+          <Link to="/contact" className="btn btn-light">
+            CONTACT
+          </Link>
+        </div>
       </div>
     </div>
   );
