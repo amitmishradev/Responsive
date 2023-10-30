@@ -7,6 +7,7 @@ import Work from "../components/Work";
 const Home = () => {
   return (
     <div>
+      test 2
       <Navbar />
       <HeroImg />
       <Work />
